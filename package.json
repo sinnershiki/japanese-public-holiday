@@ -15,7 +15,7 @@
     "url": "git@github.com:sinnershiki/japanese-public-holiday.git"
   },
   "author": "Kosuke Sugano",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sinnershiki/japanese-public-holiday/issues"
   },
