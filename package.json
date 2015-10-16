@@ -1,0 +1,23 @@
+{
+  "name": "japanese-public-holiday",
+  "version": "0.0.0",
+  "description": "祝日判定Module",
+  "main": "./index.coffee",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "postinstall": "coffee -bc index.coffee"
+  },
+  "dependencies": {
+    "coffee-script": "1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sinnershiki/japanese-public-holiday.git"
+  },
+  "author": "Kosuke Sugano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinnershiki/japanese-public-holiday/issues"
+  },
+  "homepage": "https://github.com/sinnershiki/japanese-public-holiday"
+}
