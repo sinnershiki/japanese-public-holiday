@@ -9,3 +9,13 @@ See [`src/holiday.coffee`](https://github.com/sinnershiki/japanese-public-holida
 ```sh
 $ npm install japanese-public-holiday --save
 ```
+
+## develop
+```sh
+$ npm install
+```
+
+### test
+```sh
+$ gulp test
+```
