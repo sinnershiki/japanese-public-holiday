@@ -1,6 +1,6 @@
 {
   "name": "japanese-public-holiday",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "祝日判定Module",
   "main": "./index.coffee",
   "scripts": {
